@@ -1,0 +1,17 @@
+{
+	"name":"framer-design",
+	"version": "1.0.0",
+	"main": "build/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "05b8dfd5-7e81-422e-a207-62d3553b3534"
+	},
+	"author": "Will Froelich"
+}
