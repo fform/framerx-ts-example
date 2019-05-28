@@ -4120,6 +4120,9 @@ fragment-cache@^0.2.1:
 "framer-design@file:../framer-design.framerfx":
   version "1.0.0"
 
+"framer-design@file:../framer-design.framerfx/":
+  version "1.0.0"
+
 framer@^1.0.7:
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/framer/-/framer-1.0.7.tgz#98ab6495d10fe97125bc9acf0f28943e95996add"
