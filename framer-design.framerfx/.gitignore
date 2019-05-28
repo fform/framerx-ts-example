@@ -9,8 +9,7 @@ Icon\r
 .framer-lock
 .project.log
 yarn-error.log
-build
-dist
+
 node_modules
 .npmrc
 *.framerxproj
